@@ -1,7 +1,7 @@
 #!/bin/bash
 #A script to enumerate local information from a Linux host
 version="version 0.982"
-#@n3rdyn3xus
+#@n3rdh4x0r
 
 #help function
 usage () 
